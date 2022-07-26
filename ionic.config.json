@@ -1,0 +1,7 @@
+{
+  "name": "SignUpForm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
